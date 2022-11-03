@@ -5,3 +5,8 @@ Tech Stack - Java EE (Backend)
            - React(frontend)
            - Mysql(Database)
            - Container(Docker)
+           
+Tools - SpringBoot
+      - VS Code
+      - Docker
+      - MySql workbench
