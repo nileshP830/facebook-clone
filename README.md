@@ -11,7 +11,7 @@ Tools - SpringBoot
       - Docker
       - MySql workbench
 
-I have named this webapp "Social Up". 
+I have named this webapp "Social Book". 
 Features - Profile
          - Post/like/comment
          - update profile pic and background pic
