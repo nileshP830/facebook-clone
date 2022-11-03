@@ -10,3 +10,10 @@ Tools - SpringBoot
       - VS Code
       - Docker
       - MySql workbench
+
+I have named this webapp "Social Up". 
+Features - Profile
+         - Post/like/comment
+         - update profile pic and background pic
+         - friend request
+         - chat(not yet implemented.... tough 🥲... will update 🤞)
